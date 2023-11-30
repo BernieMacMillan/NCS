@@ -24,7 +24,7 @@ else
     fi
 fi
 
-SERVICE_NAME="ncservice"
+SERVICE_NAME="ncs"
 
 PATH_NCS="/root/ncs"
 PATH_EXEC="ncs"
