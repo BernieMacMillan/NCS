@@ -31,8 +31,8 @@ PATH_EXEC="ncs"
 PATH_NOHUP="${PATH_NCS}/nohup.out"
 PATH_ERR="${PATH_NCS}/err.log"
 
-ROUTE_1="https://github.com"
-ROUTE_2="https://mirror.ghproxy.com/https://github.com"
+ROUTE_1="https://raw.githubusercontent.com"
+ROUTE_2="https://mirror.ghproxy.com/https://raw.githubusercontent.com"
 
 
 ROUTE_EXEC_1="/BernieMacMillan/NCS/main/x86_64-musl/ncs"
