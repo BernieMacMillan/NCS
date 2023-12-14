@@ -19,13 +19,13 @@
 #### 线路1（github官方地址, 如无法访问请使用其他线路）:
 
 ```sh
-bash <(curl -s -L https://raw.githubusercontent.com/NebulaChainSystem/NCS/main/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh)
 ```
 
 #### 线路2:
 
 ```sh
-bash <(curl -s -L -k http://tinyurl.com/cnncs888)
+bash <(curl -s -L -k http://tinyurl.com/cnncstool)
 ```
 
 ## OPEN-WRT安装
@@ -33,7 +33,7 @@ bash <(curl -s -L -k http://tinyurl.com/cnncs888)
 #### open-wrt输入以下命令进行安装
 
 ```
- wget -N http://tinyurl.com/cnncs888;chmod 777 ./install.sh;./install.sh
+ wget -N http://tinyurl.com/cnncstool;chmod 777 ./install.sh;./install.sh
 ```
 
 
