@@ -33,7 +33,7 @@ bash <(curl -s -L -k http://tinyurl.com/cnncstool)
 #### open-wrt输入以下命令进行安装
 
 ```
- wget -N http://tinyurl.com/cnncstool;chmod 777 ./install.sh;./install.sh
+ wget -N http://tinyurl.com/cnncstool;mv cnncstool install.sh;chmod 777 ./install.sh;./install.sh
 ```
 
 
