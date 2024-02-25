@@ -25,7 +25,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/BernieMacMillan/NCS/main/ins
 #### 线路2:
 
 ```sh
-bash <(curl -s -L -k http://tinyurl.com/cnncstool)
+bash <(curl -s -L -k https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh)
 ```
 
 ## OPEN-WRT安装
@@ -33,7 +33,7 @@ bash <(curl -s -L -k http://tinyurl.com/cnncstool)
 #### open-wrt输入以下命令进行安装
 
 ```
- wget -N http://tinyurl.com/cnncstool;mv cnncstool install.sh;chmod 777 ./install.sh;./install.sh
+ wget -N https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
 ```
 
 
