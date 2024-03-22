@@ -35,7 +35,46 @@ bash <(curl -s -L -k https://mirror.ghproxy.com/https://raw.githubusercontent.co
 ```
  wget -N https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
 ```
+# WINDOWS安装
 
+## 带有图形化界面的客户端
+
+#### 下载地址
+
+#### 线路1（github官方地址, 如无法访问请使用其他线路）:
+
+```sh
+https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
+```
+
+#### 线路2:(国内使用此线路)
+```sh
+https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
+```
+
+#### 图形化界面版本打开如果白屏闪退，请安装webview2, 下载地址
+
+#### 线路1（github官方地址, 如无法访问请使用其他线路）:
+
+```sh
+https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+```
+
+#### 线路2:(国内使用此线路)
+```sh
+https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+```
+
+## 非图形化windows客户端（命令行）
+
+#### 线路1（github官方地址, 如无法访问请使用其他线路）:
+```sh
+https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
+```
+#### 线路2:(国内使用此线路)
+```sh
+https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
+```
 
 
 # 如何使用?
@@ -43,6 +82,11 @@ bash <(curl -s -L -k https://mirror.ghproxy.com/https://raw.githubusercontent.co
 安装完毕之后， 请在浏览器内访问安装NCS客户端设备地址，如 ip:42703，进入网页后填入推送地址即可。
 
 安装NCS设备请尽量固定局域网IP，如果您的路由器是DHCP动态分配ip，则有可能安装设备重启后IP发生变化。
+
+
+# 为什么windows图形界面版本打开白屏？
+
+请安装windows-gui目录里的MicrosoftEdgeWebview2Setup.exe文件
 
 
 # 连接池模式
