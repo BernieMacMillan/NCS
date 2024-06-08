@@ -25,7 +25,11 @@ bash <(curl -s -L https://raw.githubusercontent.com/BernieMacMillan/NCS/main/ins
 #### 线路2:
 
 ```sh
-bash <(curl -s -L -k https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh)
+bash <(curl -s -L -k https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh)
+```
+
+```sh
+bash <(curl -s -L -k https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh)
 ```
 
 ## OPEN-WRT安装
@@ -33,8 +37,13 @@ bash <(curl -s -L -k https://mirror.ghproxy.com/https://raw.githubusercontent.co
 #### open-wrt输入以下命令进行安装
 
 ```
- wget -N https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
+ wget -N https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
 ```
+
+```
+ wget -N https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
+```
+
 # WINDOWS安装
 
 ## 带有图形化界面的客户端
@@ -49,7 +58,11 @@ https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
 
 #### 线路2:(国内使用此线路)
 ```sh
-https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
+https://gh-proxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
+```
+
+```sh
+https://gh.idayer.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/ncs.exe
 ```
 
 #### 图形化界面版本打开如果白屏闪退，请安装webview2, 下载地址
@@ -62,7 +75,11 @@ https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebvie
 
 #### 线路2:(国内使用此线路)
 ```sh
-https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+https://gh-proxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+```
+
+```sh
+https://gh.idayer.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
 ```
 
 ## 非图形化windows客户端（命令行）
@@ -73,7 +90,10 @@ https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
 ```
 #### 线路2:(国内使用此线路)
 ```sh
-https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
+https://gh-proxy.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
+```
+```sh
+https://gh.idayer.com/https://github.com/BernieMacMillan/NCS/blob/main/windows-no-gui/ncs.exe
 ```
 
 
