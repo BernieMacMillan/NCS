@@ -36,6 +36,13 @@ bash <(curl -s -L -k https://gh.idayer.com/https://raw.githubusercontent.com/Ber
 
 #### open-wrt输入以下命令进行安装
 
+#### 线路1（github官方地址, 如无法访问请使用其他线路）:
+
+```sh
+wget -N https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
+```
+
+#### 线路2:
 ```
  wget -N https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NCS/main/install.sh;chmod 777 install.sh;./install.sh
 ```
