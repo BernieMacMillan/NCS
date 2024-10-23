@@ -1,4 +1,6 @@
-# NCS
+# NCS <a href="https://berniemacmillan.gitbook.io/berniemacmillan">
+   <img src="https://img.shields.io/badge/%F0%9F%92%8E%E4%B8%AD%E6%96%87-%E6%96%87%E6%A1%A3%F0%9F%92%8E-brightgreen.svg">
+   </a>
 
 ### NCS安全客户端, 可压缩设备至NebulaChainSystem的连接数以及数据, 传输速度快, 且无法被中间人攻击及伪造请求攻击。
 
