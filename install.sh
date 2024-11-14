@@ -33,6 +33,7 @@ PATH_ERR="${PATH_NCS}/err.log"
 
 ROUTE_1="https://raw.githubusercontent.com"
 ROUTE_2="https://gh-proxy.com/https://raw.githubusercontent.com"
+ROUTE_3="https://ghp.ci/https://raw.githubusercontent.com"
 
 
 ROUTE_EXEC_1="/BernieMacMillan/NCS/main/x86_64-musl/ncs"
