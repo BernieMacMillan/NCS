@@ -187,14 +187,14 @@ bash <(curl -s -L -k https://cdn.gh-proxy.com/https://github.com/BernieMacMillan
 
 ### 旧版NCS2图形化界面版本
 - 下载地址：  
-  https://github.com/BernieMacMillan/NCS/raw/main/NCS_2/windows-gui/NCS.exe
+  https://github.com/BernieMacMillan/NCS/raw/main/NCS_2/windows-gui/ncs.exe
   
 - 如遇白屏问题，请安装 WebView2：  
   https://github.com/BernieMacMillan/NCS/raw/main/NCS_2/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
 ### 非图形化命令行版本
 - 下载地址：  
-    https://github.com/BernieMacMillan/NCS/raw/main/NCS_2/windows-no-gui/NCS.exe
+    https://github.com/BernieMacMillan/NCS/raw/main/NCS_2/windows-no-gui/ncs.exe
 
 
 ## 旧版NCS1安装
@@ -221,14 +221,14 @@ bash <(curl -s -L -k https://cdn.gh-proxy.com/https://github.com/BernieMacMillan
 
 ### 旧版NCS1图形化界面版本
 - 下载地址：  
-  https://github.com/BernieMacMillan/NCS/raw/main/NCS_1/windows-gui/NCS.exe
+  https://github.com/BernieMacMillan/NCS/raw/main/NCS_1/windows-gui/ncs.exe
   
 - 如遇白屏问题，请安装 WebView2：  
   https://github.com/BernieMacMillan/NCS/raw/main/NCS_1/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
 ### 非图形化命令行版本
 - 下载地址：  
-    https://github.com/BernieMacMillan/NCS/raw/main/NCS_1/windows-no-gui/NCS.exe
+    https://github.com/BernieMacMillan/NCS/raw/main/NCS_1/windows-no-gui/ncs.exe
 
 
 # 使用指南
